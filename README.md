@@ -1,5 +1,5 @@
 ## Exploring LA Robbery
-- By Charles Bi, Jennifer Zhao, Bowen Liu, Vienna Lu
+- By Charles (Haocheng) Bi, Jennifer Zhao, Bowen Liu, Vienna Lu
 
 ## Goal
 The dataset records all crimes happened in LA from 2010-2017, with robbery ranked high among all crimes. The goal of this analysis is to understand LA robbery in depth: locations, victim & attacker profile, timing, trends, etc, and based on our findings, give recommendations to the LAPD and to the public in order to minimize robbery. 
